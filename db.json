@@ -1,15 +1,5 @@
 {
-  "starmark_search": [
-    { "id": 1, "starmark_id": "SM001", "exists": true },
-    { "id": 2, "starmark_id": "SM002", "exists": true },
-    { "id": 3, "starmark_id": "SM003", "exists": false }
-  ],
-  "phone_search": [
-    { "id": 1, "phone": "5551234567", "exists": true },
-    { "id": 2, "phone": "5559876543", "exists": true },
-    { "id": 3, "phone": "5550000000", "exists": false }
-  ],
-  "user_search": [
+  "users": [
     {
       "id": 1,
       "starmark_id": "SM001",
