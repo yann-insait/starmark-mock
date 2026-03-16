@@ -1,0 +1,40 @@
+{
+  "starmark_search": [
+    { "id": 1, "starmark_id": "SM001", "exists": true },
+    { "id": 2, "starmark_id": "SM002", "exists": true },
+    { "id": 3, "starmark_id": "SM003", "exists": false }
+  ],
+  "phone_search": [
+    { "id": 1, "phone": "5551234567", "exists": true },
+    { "id": 2, "phone": "5559876543", "exists": true },
+    { "id": 3, "phone": "5550000000", "exists": false }
+  ],
+  "user_search": [
+    {
+      "id": 1,
+      "starmark_id": "SM001",
+      "phone": "5551234567",
+      "first_name": "John",
+      "last_name": "Doe",
+      "birth_month": "March",
+      "birth_day": 15,
+      "ssn_last4": "1234",
+      "zip_code": "10001",
+      "email": "john.doe@example.com",
+      "street_address": "123 Main St"
+    },
+    {
+      "id": 2,
+      "starmark_id": "SM002",
+      "phone": "5559876543",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "birth_month": "July",
+      "birth_day": 4,
+      "ssn_last4": "5678",
+      "zip_code": "90210",
+      "email": "jane.smith@example.com",
+      "street_address": "456 Oak Ave"
+    }
+  ]
+}
