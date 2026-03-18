@@ -11,7 +11,8 @@
       "ssn_last4": "1234",
       "zip_code": "10001",
       "email": "john.doe@example.com",
-      "street_address": "123 Main St"
+      "street_address": "123 Main St",
+    "state": "CA"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "ssn_last4": "5678",
       "zip_code": "90210",
       "email": "jane.smith@example.com",
-      "street_address": "456 Oak Ave"
+      "street_address": "456 Oak Ave",
+      "state": "NY"
     }
   ]
 }
