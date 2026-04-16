@@ -12,7 +12,8 @@
       "zip_code": "10001",
       "email": "john.doe@example.com",
       "street_address": "123 Main St",
-    "state": "CA"
+      "state": "CA",
+      "debt_amount": 5000
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "zip_code": "90210",
       "email": "jane.smith@example.com",
       "street_address": "456 Oak Ave",
-      "state": "NY"
+      "state": "NY",
+      "debt_amount":7500
     }
   ]
 }
